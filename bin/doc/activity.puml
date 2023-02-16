@@ -1,0 +1,17 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+start
+:Azul;
+:Créer joueur;
+:Créer Fabriques et centre de la table;
+
+:Démarrage de la partie;
+ while (Tant que les fabriques ou le centre de la table non vide ) is (true)
+  :Piocher une tuile des fabriques ou du centre de la table;
+  :Choix de la couleur de la tuile;
+  :Placer une ou plusieurs tuiles de même couleur sur la ligne motif;
+ endwhile (false)
+:Fin de la partie;
+stop
+@enduml

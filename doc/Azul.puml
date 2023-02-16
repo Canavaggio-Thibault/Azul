@@ -1,0 +1,24 @@
+@startuml
+left to right direction
+actor "Joueur (IA)" as fc
+rectangle JeuAzul{
+usecase "Piocher des tuiles de la même couleur des fabriques" as UC1
+usecase "Piocher des tuiles de la même couleur du centre de la table" as UC2
+usecase "Placer une ou plusieurs tuiles sur la ligne motif" as UC7
+
+}
+left to right direction
+actor "Client" as cl
+rectangle Azul {
+usecase "Lancer une partie" as UC5
+usecase "Voir le déroulement d'une partie" as UC6
+}
+fc -- UC1
+UC1 --> UC7 #red;line.dotted;text:red : <<include>>
+fc -- UC2
+UC2 --> UC7 #red;line.dotted;text:red : <<include>>
+
+
+cl -- UC5
+cl -- UC6
+@enduml

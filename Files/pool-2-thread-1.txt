@@ -1,0 +1,2862 @@
+ =-=-=-=-=-=-=-=-=-=-=-=-=-= DÉBUT DE LA PARTIE =-=-=-=-=-=-=-=-=-=-=-=-=-=
+Le Joueur1 a le niveau de diffilculté IA_RANDOM
+Le Joueur2 a le niveau de diffilculté IA_INTERMEDIARE
+Le Joueur3 a le niveau de diffilculté IA_SUPERIEUR
+=-=-=-=-=-=-= Début de la manche 1 =-=-=-=-=-=-=
+
+TOUR 1
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;34mBLEU[0m] 
+Fabrique n°2 : [[3;31mROUGE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m] 
+Fabrique n°3 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Fabrique n°4 : [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°5 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[0mJETON[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuile de couleur [3;31mROUGE[0m depuis la fabrique numero 2 et pose la tuile sur la ligne de motif numero 1
+                        [[3;31mROUGE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 3 tuiles de couleur [3;34mBLEU[0m depuis la fabrique numero 1 et pose les tuiles sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 1
+                        [[3;33mJAUNE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 4
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°3 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Fabrique n°4 : [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°5 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[3;97mBLANC[0m [3;97mBLANC[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;31mROUGE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 3 tuiles de couleur [3;97mBLANC[0m depuis la fabrique numero 3 et pose les tuiles sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 7
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°4 : [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°5 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuile de couleur [3;90mNOIR[0m depuis la fabrique numero 4 et pose la tuile sur la ligne de motif numero 2
+                        [[3;31mROUGE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis la fabrique numero 6 et pose les tuiles sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 10
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°5 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;31mROUGE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[3;34mBLEU[0m [3;33mJAUNE[0m [3;33mJAUNE[0m [3;34mBLEU[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuile de couleur [3;34mBLEU[0m depuis la fabrique numero 7 et pose la tuile sur la ligne de motif numero 5
+                        [[3;31mROUGE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 1 tuile de couleur [3;31mROUGE[0m depuis la fabrique numero 5 et pose la tuile sur la ligne de motif numero 1
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 2 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 13
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;33mJAUNE[0m [3;90mNOIR[0m [3;97mBLANC[0m [3;90mNOIR[0m [3;90mNOIR[0m [3;33mJAUNE[0m [3;97mBLANC[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;31mROUGE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 3 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 3 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;33mJAUNE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+- La ligne 1 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m]  [NOIR, BLANC, BLEU, JAUNE, ROUGE]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 1
+
+- La ligne 3 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, JAUNE, ROUGE]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 2
+
+- La ligne 1 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [NOIR, BLANC, BLEU, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 1
+
+- La ligne 2 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [NOIR, BLANC, BLEU, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 3
+
+- La ligne 3 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 6
+
+- La ligne 1 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, ROUGE, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m]  [NOIR, BLANC, BLEU, JAUNE, ROUGE]
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 1
+
+- La ligne 3 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, ROUGE, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, ROUGE]
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 2
+
+Nombre de point avant malusPlancher de Joueur1 : 2
+Nombre de point après malusPlancher de Joueur1 : 1
+Nombre de point avant malusPlancher de Joueur2 : 6
+Nombre de point après malusPlancher de Joueur2 : 6
+Nombre de point avant malusPlancher de Joueur3 : 2
+Nombre de point après malusPlancher de Joueur3 : 0
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-= FIN DE LA MANCHE =-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-= Début de la manche 2 =-=-=-=-=-=-=
+
+TOUR 16
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;31mROUGE[0m] 
+Fabrique n°2 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m] 
+Fabrique n°3 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°4 : [[3;31mROUGE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°5 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;90mNOIR[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+Fabrique n°7 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[0mJETON[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuile de couleur [3;31mROUGE[0m depuis la fabrique numero 1 et pose la tuile sur la ligne de motif numero 1
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 19
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°2 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m] 
+Fabrique n°3 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°4 : [[3;31mROUGE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°5 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;90mNOIR[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+Fabrique n°7 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[0mJETON[0m [3;33mJAUNE[0m [3;97mBLANC[0m [3;34mBLEU[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;97mBLANC[0m depuis la fabrique numero 2 et pose les tuiles sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 22
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°3 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°4 : [[3;31mROUGE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°5 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;90mNOIR[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+Fabrique n°7 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;33mJAUNE[0m [3;97mBLANC[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;31mROUGE[0m depuis la fabrique numero 6 et pose les tuiles sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis la fabrique numero 3 et pose les tuiles sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 25
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°4 : [[3;31mROUGE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°5 : [[3;31mROUGE[0m, [3;34mBLEU[0m, [3;90mNOIR[0m, [3;31mROUGE[0m] 
+Fabrique n°7 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;33mJAUNE[0m [3;97mBLANC[0m [3;97mBLANC[0m [3;33mJAUNE[0m [3;34mBLEU[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis la fabrique numero 7 et pose les tuiles sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;31mROUGE[0m depuis la fabrique numero 5 et pose les tuiles sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 28
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°4 : [[3;31mROUGE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;33mJAUNE[0m [3;97mBLANC[0m [3;97mBLANC[0m [3;33mJAUNE[0m [3;33mJAUNE[0m [3;34mBLEU[0m [3;34mBLEU[0m [3;90mNOIR[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuile de couleur [3;34mBLEU[0m depuis la fabrique numero 4 et pose la tuile sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 4 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 1
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 31
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Tuiles au centre :
+[[3;97mBLANC[0m [3;97mBLANC[0m [3;34mBLEU[0m [3;34mBLEU[0m [3;90mNOIR[0m [3;97mBLANC[0m [3;90mNOIR[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 3 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 1
+                        [[3;97mBLANC[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;34mBLEU[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;31mROUGE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+- La ligne 1 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, JAUNE, ROUGE]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 2
+
+- La ligne 2 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, JAUNE, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, JAUNE, ROUGE]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;90mNOIR[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 4
+
+- La ligne 1 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 8
+
+- La ligne 2 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 9
+
+- La ligne 5 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 10
+
+- La ligne 1 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, ROUGE]
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 2
+
+- La ligne 3 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 3
+
+Nombre de point avant malusPlancher de Joueur1 : 4
+Nombre de point après malusPlancher de Joueur1 : 0
+Nombre de point avant malusPlancher de Joueur2 : 10
+Nombre de point après malusPlancher de Joueur2 : 2
+Nombre de point avant malusPlancher de Joueur3 : 3
+Nombre de point après malusPlancher de Joueur3 : 3
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-= FIN DE LA MANCHE =-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-= Début de la manche 3 =-=-=-=-=-=-=
+
+TOUR 34
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;31mROUGE[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;97mBLANC[0m] 
+Fabrique n°3 : [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Fabrique n°4 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;31mROUGE[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+Fabrique n°7 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m] 
+Tuiles au centre :
+[[0mJETON[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis la fabrique numero 7 et pose les tuiles sur la ligne de motif numero 1
+                        [[3;33mJAUNE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 3 tuiles de couleur [3;34mBLEU[0m depuis la fabrique numero 6 et pose les tuiles sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 37
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;31mROUGE[0m, [3;33mJAUNE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;97mBLANC[0m] 
+Fabrique n°3 : [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Fabrique n°4 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;31mROUGE[0m] 
+Tuiles au centre :
+[[3;97mBLANC[0m [3;33mJAUNE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis la fabrique numero 1 et pose les tuiles sur la ligne de motif numero 3
+                        [[3;33mJAUNE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis la fabrique numero 3 et pose les tuiles sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 40
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;97mBLANC[0m] 
+Fabrique n°4 : [[3;90mNOIR[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;31mROUGE[0m] 
+Tuiles au centre :
+[[3;31mROUGE[0m [3;97mBLANC[0m [3;33mJAUNE[0m [3;97mBLANC[0m [3;97mBLANC[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 3 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 43
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;97mBLANC[0m] 
+Fabrique n°5 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;31mROUGE[0m] 
+Tuiles au centre :
+[[3;31mROUGE[0m [3;31mROUGE[0m [3;33mJAUNE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 1 tuile de couleur [3;31mROUGE[0m depuis la fabrique numero 2 et pose la tuile sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 46
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°5 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;31mROUGE[0m] 
+Tuiles au centre :
+[[3;31mROUGE[0m [3;90mNOIR[0m [3;31mROUGE[0m [3;97mBLANC[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 1
+                        [[3;34mBLEU[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 49
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;90mNOIR[0m [3;97mBLANC[0m [3;97mBLANC[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;97mBLANC[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;33mJAUNE[0m] 
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 1 tuiles de couleur [3;33mJAUNE[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;35mVIDE[0m] 
+                  [[3;90mNOIR[0m, [3;90mNOIR[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;34mBLEU[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;34mBLEU[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+- La ligne 1 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;97mBLANC[0m, [3;97mBLANC[0m]  [BLANC, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, JAUNE, ROUGE]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 2
+
+- La ligne 2 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, JAUNE, ROUGE]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 3
+
+- La ligne 3 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 4
+
+- La ligne 4 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, [3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;31mROUGE[0m, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[3;33mJAUNE[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 5
+
+- La ligne 2 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE, [3;90mNOIR[0m]
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, ROUGE]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 3
+
+- La ligne 3 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, [3;31mROUGE[0m]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 5
+
+- La ligne 1 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 6
+
+- La ligne 4 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 7
+
+- La ligne 5 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, BLANC]
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 8
+
+Nombre de point avant malusPlancher de Joueur1 : 5
+Nombre de point après malusPlancher de Joueur1 : 0
+Nombre de point avant malusPlancher de Joueur2 : 5
+Nombre de point après malusPlancher de Joueur2 : 0
+Nombre de point avant malusPlancher de Joueur3 : 8
+Nombre de point après malusPlancher de Joueur3 : 6
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-= FIN DE LA MANCHE =-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-= Début de la manche 4 =-=-=-=-=-=-=
+
+TOUR 52
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;34mBLEU[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;31mROUGE[0m] 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°3 : [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°4 : [[3;97mBLANC[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Tuiles au centre :
+[[0mJETON[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuile de couleur [3;90mNOIR[0m depuis la fabrique numero 1 et pose la tuile sur la ligne de motif numero 1
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 55
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°3 : [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°4 : [[3;97mBLANC[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Tuiles au centre :
+[[0mJETON[0m [3;34mBLEU[0m [3;97mBLANC[0m [3;31mROUGE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 3 tuiles de couleur [3;33mJAUNE[0m depuis la fabrique numero 5 et pose les tuiles sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 58
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°2 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°3 : [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°4 : [[3;97mBLANC[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Tuiles au centre :
+[[3;34mBLEU[0m [3;31mROUGE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis la fabrique numero 2 et pose les tuiles sur la ligne de motif numero 1
+                        [[3;90mNOIR[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 2 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 61
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°3 : [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°4 : [[3;97mBLANC[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Tuiles au centre :
+[[3;34mBLEU[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 1
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;97mBLANC[0m depuis la fabrique numero 3 et pose les tuiles sur la ligne de motif numero 4
+                        [[3;90mNOIR[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 64
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°4 : [[3;97mBLANC[0m, [3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m] 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;31mROUGE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuile de couleur [3;90mNOIR[0m depuis la fabrique numero 7 et pose la tuile sur la ligne de motif numero 3
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;90mNOIR[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 67
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°6 : [[3;33mJAUNE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;31mROUGE[0m [3;34mBLEU[0m [3;33mJAUNE[0m [3;31mROUGE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis la fabrique numero 6 et pose les tuiles sur la ligne de motif numero 4
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;90mNOIR[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;90mNOIR[0m] 
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 70
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Tuiles au centre :
+[[3;34mBLEU[0m [3;90mNOIR[0m [3;90mNOIR[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;34mBLEU[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;90mNOIR[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;90mNOIR[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+- La ligne 1 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m]  [NOIR, [3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE]
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;31mROUGE[0m, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 4
+
+- La ligne 3 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, [3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE]
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;31mROUGE[0m, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [JAUNE, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 9
+
+- La ligne 5 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, [3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE]
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;31mROUGE[0m, NOIR, BLANC, BLEU, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, [3;34mBLEU[0m]
+
+Plancher de Joueur1 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 10
+
+- La ligne 1 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, BLANC]
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE, [3;90mNOIR[0m]
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, [3;31mROUGE[0m]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 3
+
+- La ligne 2 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m]
+            [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, JAUNE, [3;31mROUGE[0m]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 7
+
+- La ligne 3 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m]
+      [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m]  [ROUGE, NOIR, BLANC, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 12
+
+- La ligne 4 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [NOIR, BLANC, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, [3;97mBLANC[0m, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;90mNOIR[0m, [3;97mBLANC[0m, [3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 16
+
+- La ligne 1 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, BLANC]
+                  [[3;33mJAUNE[0m, [3;33mJAUNE[0m]  [BLANC, BLEU, JAUNE, ROUGE, NOIR]
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 10
+
+- La ligne 2 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, BLANC]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 12
+
+Nombre de point avant malusPlancher de Joueur1 : 10
+Nombre de point après malusPlancher de Joueur1 : 9
+Nombre de point avant malusPlancher de Joueur2 : 16
+Nombre de point après malusPlancher de Joueur2 : 10
+Nombre de point avant malusPlancher de Joueur3 : 12
+Nombre de point après malusPlancher de Joueur3 : 11
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-= FIN DE LA MANCHE =-=-=-=-=-=-=-=-=-=-=-=-=-=
+=-=-=-=-=-=-= Début de la manche 5 =-=-=-=-=-=-=
+
+TOUR 73
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Fabrique n°2 : [[3;31mROUGE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°3 : [[3;90mNOIR[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+Fabrique n°4 : [[3;33mJAUNE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°6 : [[3;97mBLANC[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Tuiles au centre :
+[[0mJETON[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 2 tuiles de couleur [3;31mROUGE[0m depuis la fabrique numero 6 et pose les tuiles sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 3 tuiles de couleur [3;90mNOIR[0m depuis la fabrique numero 3 et pose les tuiles sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;35mVIDE[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 3
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 76
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°1 : [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m] 
+Fabrique n°2 : [[3;31mROUGE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°4 : [[3;33mJAUNE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;31mROUGE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;90mNOIR[0m depuis la fabrique numero 1 et pose les tuiles sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 79
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°2 : [[3;31mROUGE[0m, [3;90mNOIR[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+Fabrique n°4 : [[3;33mJAUNE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Tuiles au centre :
+[[3;34mBLEU[0m [3;33mJAUNE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;31mROUGE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 82
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°4 : [[3;33mJAUNE[0m, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m] 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Tuiles au centre :
+[[3;33mJAUNE[0m [3;90mNOIR[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;33mJAUNE[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;31mROUGE[0m, [3;35mVIDE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;31mROUGE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 2
+                        [[3;35mVIDE[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 85
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Fabrique n°5 : [[3;34mBLEU[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;90mNOIR[0m] 
+Fabrique n°7 : [[3;90mNOIR[0m, [3;34mBLEU[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+Tuiles au centre :
+[[3;34mBLEU[0m [3;33mJAUNE[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuile de couleur [3;90mNOIR[0m depuis la fabrique numero 5 et pose la tuile sur la ligne de motif numero 5
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 2 tuiles de couleur [3;97mBLANC[0m depuis la fabrique numero 7 et pose les tuiles sur la ligne de motif numero 1
+                        [[3;97mBLANC[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;97mBLANC[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 1
+                        [[3;97mBLANC[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+TOUR 88
+
+=-=-=-=-=-=-= Affichage des fabriques et du centre =-=-=-=-=-=-=
+Tuiles dans les fabriques : 
+Tuiles au centre :
+[[3;34mBLEU[0m [3;33mJAUNE[0m [3;34mBLEU[0m [3;34mBLEU[0m [3;90mNOIR[0m [3;34mBLEU[0m ]
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-*-*-*-*-*- Début du tour du Joueur1 -*-*-*-*-*-
+
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;35mVIDE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur1 a pioché 1 tuiles de couleur [3;33mJAUNE[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 4
+                        [[3;35mVIDE[0m] 
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m] 
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m] 
+      [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m] 
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur1 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur2 -*-*-*-*-*-
+
+                        [[3;97mBLANC[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur2 a pioché 4 tuiles de couleur [3;34mBLEU[0m depuis le centre et pose la/les tuile(s)sur la ligne de motif numero 5
+                        [[3;97mBLANC[0m] 
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m] 
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m] 
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m] 
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur2 -*-*-*-*-*-
+
+-*-*-*-*-*- Début du tour du Joueur3 -*-*-*-*-*-
+
+                        [[3;97mBLANC[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+- $> Joueur3 a pioché 1 tuiles de couleur [3;90mNOIR[0m depuis le centre ou la fabrique et pose la/les tuiles dans le plancher
+                        [[3;97mBLANC[0m] 
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m] 
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m] 
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m] 
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m] 
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+
+-*-*-*-*-*- Fin  du tour du Joueur3 -*-*-*-*-*-
+
+- La ligne 4 de Joueur1 est pleine : Placement d'une tuile sur le mur du Joueur1.
+
+
+- Mur de Joueur1 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR, [3;97mBLANC[0m]
+                  [[3;34mBLEU[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, JAUNE, ROUGE, [3;90mNOIR[0m]
+            [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, [3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, ROUGE]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;31mROUGE[0m, NOIR, BLANC, BLEU, [3;33mJAUNE[0m]
+[[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, NOIR, BLANC, [3;34mBLEU[0m]
+
+Plancher de Joueur1 : [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur1 : 11
+
+- La ligne 1 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m]
+            [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;90mNOIR[0m]  [NOIR, BLANC, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m]
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, [3;97mBLANC[0m, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 16
+
+- La ligne 3 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m]
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, [3;97mBLANC[0m, BLEU, JAUNE]
+[[3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, BLEU]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 18
+
+- La ligne 5 de Joueur2 est pleine : Placement d'une tuile sur le mur du Joueur2.
+
+
+- Mur de Joueur2 : 
+                        [[3;35mVIDE[0m]  [BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;97mBLANC[0m, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, BLANC, [3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m]
+      [[3;90mNOIR[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [ROUGE, NOIR, [3;97mBLANC[0m, BLEU, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;33mJAUNE[0m, ROUGE, NOIR, BLANC, [3;34mBLEU[0m]
+
+Plancher de Joueur2 : [[3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;33mJAUNE[0m, [3;97mBLANC[0m, [3;34mBLEU[0m, [3;34mBLEU[0m]
+
+==> Nombre de point(s) courant de Joueur2 : 19
+
+- La ligne 1 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;31mROUGE[0m, [3;31mROUGE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, ROUGE, NOIR]
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 16
+
+- La ligne 2 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR]
+            [[3;97mBLANC[0m, [3;97mBLANC[0m, [3;97mBLANC[0m]  [[3;90mNOIR[0m, BLANC, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 19
+
+- La ligne 3 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, [3;97mBLANC[0m, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m, [3;31mROUGE[0m]  [ROUGE, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 21
+
+- La ligne 4 de Joueur3 est pleine : Placement d'une tuile sur le mur du Joueur3.
+
+
+- Mur de Joueur3 : 
+                        [[3;35mVIDE[0m]  [[3;34mBLEU[0m, [3;33mJAUNE[0m, [3;31mROUGE[0m, [3;90mNOIR[0m, [3;97mBLANC[0m]
+                  [[3;35mVIDE[0m, [3;35mVIDE[0m]  [BLANC, BLEU, [3;33mJAUNE[0m, [3;31mROUGE[0m, NOIR]
+            [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;90mNOIR[0m, [3;97mBLANC[0m, BLEU, JAUNE, [3;31mROUGE[0m]
+      [[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [[3;31mROUGE[0m, NOIR, BLANC, [3;34mBLEU[0m, JAUNE]
+[[3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]  [JAUNE, ROUGE, [3;90mNOIR[0m, BLANC, BLEU]
+
+Plancher de Joueur3 : [[0mJETON[0m, [3;90mNOIR[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m, [3;35mVIDE[0m]
+
+==> Nombre de point(s) courant de Joueur3 : 23
+
+Nombre de point avant malusPlancher de Joueur1 : 11
+Nombre de point après malusPlancher de Joueur1 : 11
+Nombre de point avant malusPlancher de Joueur2 : 19
+Nombre de point après malusPlancher de Joueur2 : 5
+Nombre de point avant malusPlancher de Joueur3 : 23
+Nombre de point après malusPlancher de Joueur3 : 21
+
+Le Joueur1 à 11 points
+Le Joueur2 à 5 points
+Le Joueur3 à 21 points
+ =-=-=-=   Félicitation à Joueur3, qui remporte(nt) la partie avec 21 points   =-=-=-= 
